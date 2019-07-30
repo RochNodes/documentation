@@ -16,4 +16,4 @@ When an user is clicking the url, following steps will happen:
 
 3) Check if user has access to the application, else give user access
 
-4) Redirect to application landing page
+4) Redirect to application landing page.
